@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('nobitagit.filters', [])
+angular.module('nbt.ng.filters.string', [])
 
 /**
  * Given a string count how many characters of a certain ascii range it contains.
